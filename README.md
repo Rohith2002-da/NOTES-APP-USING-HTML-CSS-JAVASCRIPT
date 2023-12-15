@@ -1,19 +1,11 @@
 ## Title
-
-NK💛 - Notes Site
+Notes Site
 ## Description 
 
 "Built with JavaScript, this dynamic notes site offers a convenient way to organize and manage your thoughts. Seamlessly create, edit, and categorize notes with ease, all within a sleek and user-friendly interface. Take control of your ideas and boost your productivity with this powerful note-taking solution."
 ## Authors
 
-- [NK💛](https://www.github.com/nishap24) 
-
-
-## Demo
-
-Live Demo:
-
- https://nishap24.github.io/JS---Project-Day-3-Notes_Site/
+- [NK💛](https://github.com/Rohith2002-da) 
     
 ## Getting Started
 
